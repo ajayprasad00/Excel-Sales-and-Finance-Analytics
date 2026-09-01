@@ -48,6 +48,9 @@ Developed comprehensive sales analytics reports to evaluate customer, market, an
 * Top & Bottom 5 Products Performance Report
   ![Top & Bottom 5 Products Performance Report](images/9_top&bottom_5_products.jpg)
 
+* P&L BY Market Report
+  ![P&L By Market Report](images/P&L_By_market.jpg)
+
 ### Key Achievements
 
 * Enabled effective monitoring and evaluation of customer and market performance.
