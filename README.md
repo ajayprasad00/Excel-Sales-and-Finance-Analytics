@@ -32,11 +32,13 @@ Developed comprehensive sales analytics reports to evaluate customer, market, an
 
 ### Reports Created
 * Customer performance Report
-* ![Customer Performance Report](images/1_customer_Net_sales-performance.png)
+ ![Customer Performance Report](images/1_customer_Net_sales-performance.png)
 * Market Performance vs Target Report
-* ![Customer Performance Report](images/1_customer_Net_sales-performance.png)
+ ![ Market Performance vs Target Report](images/2_market_Performance_vs_target.png)
 * Division-Level Performance Report
+![Division-Level Performance Report](images/7_devision_level_report.jpg)
 * New Products Performance Report for 2021
+![New Products Performance Report for 2021](images/
 * Top 10 Products Report
 * Top & Bottom 5 Products Performance Report
 
