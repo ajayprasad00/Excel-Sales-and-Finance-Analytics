@@ -31,9 +31,10 @@ The analysis aims to uncover valuable insights within AtliQ Hardwares' sales and
 Developed comprehensive sales analytics reports to evaluate customer, market, and product performance.
 
 ### Reports Created
-
-* ![Customer Performance Report](images/1_customer_performance.png)
+* Customer performance Report
+* ![Customer Performance Report](images/1_customer_Net_sales-performance.png)
 * Market Performance vs Target Report
+* ![Customer Performance Report](images/1_customer_Net_sales-performance.png)
 * Division-Level Performance Report
 * New Products Performance Report for 2021
 * Top 10 Products Report
