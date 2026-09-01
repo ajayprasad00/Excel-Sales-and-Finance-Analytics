@@ -37,10 +37,10 @@ Developed comprehensive sales analytics reports to evaluate customer, market, an
  ![ Market Performance vs Target Report](images/2_market_Performance_vs_target.png)
 * Division-Level Performance Report
 ![Division-Level Performance Report](images/7_devision_level_report.jpg)
-* New Products Performance Report for 2021
-  ![Divin-Level Performance Report](images/7_devision_level_report.jpg)(images/5_new product_2021.jpg)sio
+* New Products 2021 Report
+  ![New Products 2021  Report](images/5_new_product_2021.jpg)
 * Top 10 Products Report
-![Top 10 Products Report](images/8_top 10 products.jpg)
+![Top 10 Products Report](images/8_top_10_products.jpg)
 * Top & Bottom 5 Products Performance Report
 ![Top & Bottom 5 Products Performance Report](images/9_top&bottom_5 products.jpg)
 
