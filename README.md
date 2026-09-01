@@ -12,6 +12,13 @@ The objective is to uncover strategic insights that empower AtliQ Hardwares to m
 
 The ultimate aim is to drive substantial improvements in the company's performance, centered around net sales and net gross margin.
 
+
+## Project Resources
+
+ **Excel Report:** [View Project File]https://1drv.ms/x/c/853FF9C1BDDD0EF0/IQDCsbibqfkTSpUEWXpGx0aFAayTfXkQfShEU8eAhPkY4vY?e=xezX9b
+  
+
+
 ##  Why This Project Matters
 
 Unlocking the potential within this dataset holds the key to maximizing AtliQ Hardwares' sales and profitability.
