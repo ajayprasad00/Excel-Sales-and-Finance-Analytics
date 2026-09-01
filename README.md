@@ -22,34 +22,51 @@ The analysis aims to uncover valuable insights within AtliQ Hardwares' sales and
 
 #  Project Highlights
 
+#  Project Highlights
+
 ## Project 1: Sales Analysis and Reporting
 
 ### Objective
 
-- Developed a comprehensive customer performance report.
-- Conducted an in-depth comparison of market performance and sales targets.
+Developed comprehensive sales analytics reports to evaluate customer, market, and product performance.
+
+### Reports Created
+
+* ![Customer Performance Report](images/1_customer_performance.png)
+* Market Performance vs Target Report
+* Division-Level Performance Report
+* New Products Performance Report for 2021
+* Top 10 Products Report
+* Top & Bottom 5 Products Performance Report
 
 ### Key Achievements
 
-- Enabled businesses to monitor and evaluate their sales activities effectively.
-- Identified critical sales patterns and tracked essential Key Performance Indicators (KPIs).
-- Assisted in determining optimal customer discounts.
-- Facilitated consumer negotiations.
-- Identified promising international expansion opportunities.
+* Enabled effective monitoring and evaluation of customer and market performance.
+* Identified sales trends and performance gaps against targets.
+* Analyzed product-level performance to identify high-performing and underperforming products.
+* Supported data-driven decision-making for customer discounts, product strategy, and market expansion opportunities.
+
+---
 
 ## Project 2: Financial Analysis and Reporting
 
 ### Objective
 
-- Created detailed Profit and Loss (P&L) reports categorized by Fiscal Year and Months.
-- Produced P&L reports segmented by Markets.
+Developed comprehensive Profit & Loss (P&L) reports to analyze financial performance across different time periods and markets.
+
+### Reports Created
+
+* P&L Report by Fiscal Year
+* P&L Report by Fiscal Months
+* P&L Report by Markets
 
 ### Key Achievements
 
-- Evaluated financial performance comprehensively, facilitating informed decision-making.
-- Supported effective communication with stakeholders through clear and insightful reports.
-- Contributed to benchmarking against industry peers.
-- Established a foundation for budgeting and forecasting.
+* Evaluated financial performance across fiscal years and monthly periods.
+* Analyzed market-level profitability and financial trends.
+* Supported benchmarking, budgeting, and forecasting processes.
+* Enabled stakeholders to gain clear insights into overall financial performance.
+
 
 #  Technical Skills
 
