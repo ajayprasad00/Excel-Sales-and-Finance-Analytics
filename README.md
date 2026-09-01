@@ -22,8 +22,6 @@ The analysis aims to uncover valuable insights within AtliQ Hardwares' sales and
 
 #  Project Highlights
 
-#  Project Highlights
-
 ## Project 1: Sales Analysis and Reporting
 
 ### Objective
@@ -31,18 +29,24 @@ The analysis aims to uncover valuable insights within AtliQ Hardwares' sales and
 Developed comprehensive sales analytics reports to evaluate customer, market, and product performance.
 
 ### Reports Created
+
 * Customer performance Report
- ![Customer Performance Report](images/1_customer_Net_sales-performance.png)
+  ![Customer Performance Report](images/1_customer_Net_sales-performance.png)
+ 
 * Market Performance vs Target Report
- ![ Market Performance vs Target Report](images/2_market_Performance_vs_target.png)
+  ![ Market Performance vs Target Report](images/2_market_Performance_vs_target.png)
+ 
 * Division-Level Performance Report
-![Division-Level Performance Report](images/7_devision_level_report.jpg)
+  ![Division-Level Performance Report](images/7_devision_level_report.jpg)
+
 * New Products 2021 Report
   ![New Products 2021  Report](images/5_new_product_2021.jpg)
+  
 * Top 10 Products Report
-![Top 10 Products Report](images/8_top_10_products.jpg)
+  ![Top 10 Products Report](images/8_top_10_products.jpg)
+
 * Top & Bottom 5 Products Performance Report
-![Top & Bottom 5 Products Performance Report](images/9_top&bottom_5 products.jpg)
+  ![Top & Bottom 5 Products Performance Report](images/9_top&bottom_5_products.jpg)
 
 ### Key Achievements
 
@@ -62,8 +66,10 @@ Developed comprehensive Profit & Loss (P&L) reports to analyze financial perform
 ### Reports Created
 
 * P&L Report by Fiscal Year
+![P&L Report by Fiscal Year](images/3_pnl_fiscal_years.png)
 * P&L Report by Fiscal Months
-* P&L Report by Markets
+![P&L Report by Fiscal month](images/4_pnl_fiscal_months.png)
+
 
 ### Key Achievements
 
