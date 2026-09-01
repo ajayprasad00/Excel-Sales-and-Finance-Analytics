@@ -38,9 +38,11 @@ Developed comprehensive sales analytics reports to evaluate customer, market, an
 * Division-Level Performance Report
 ![Division-Level Performance Report](images/7_devision_level_report.jpg)
 * New Products Performance Report for 2021
-![New Products Performance Report for 2021](images/
+![New Products Performance Report for 2021](images/5_new_product_2021.jpg)
 * Top 10 Products Report
+![Top 10 Products Report](images/8_top 10 products.jpg)
 * Top & Bottom 5 Products Performance Report
+![Top & Bottom 5 Products Performance Report](images/9_top&bottom_5 products.jpg)
 
 ### Key Achievements
 
