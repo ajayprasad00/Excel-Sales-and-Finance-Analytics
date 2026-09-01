@@ -48,8 +48,6 @@ Developed comprehensive sales analytics reports to evaluate customer, market, an
 * Top & Bottom 5 Products Performance Report
   ![Top & Bottom 5 Products Performance Report](images/9_top&bottom_5_products.jpg)
 
-* P&L BY Market Report
-  ![P&L By Market Report](images/P&L_By_market.jpg)
 
 ### Key Achievements
 
@@ -73,6 +71,8 @@ Developed comprehensive Profit & Loss (P&L) reports to analyze financial perform
 * P&L Report by Fiscal Months
 ![P&L Report by Fiscal month](images/4_pnl_fiscal_months.png)
 
+* P&L BY Market Report
+  ![P&L By Market Report](images/10_P&L_By_market.png)
 
 ### Key Achievements
 
