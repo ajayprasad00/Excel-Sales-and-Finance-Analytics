@@ -67,12 +67,14 @@ Developed comprehensive Profit & Loss (P&L) reports to analyze financial perform
 ### Reports Created
 
 * P&L Report by Fiscal Year
-![P&L Report by Fiscal Year](images/3_pnl_fiscal_years.png)
-* P&L Report by Fiscal Months
-![P&L Report by Fiscal month](images/4_pnl_fiscal_months.png)
+  ![P&L Report by Fiscal Year](images/3_pnl_fiscal_years.png)
 
-* P&L BY Market Report
-  ![P&L By Market Report](images/10_P&L_By_market.png)
+* P&L Report by Fiscal Months
+  ![P&L Report by Fiscal month](images/4_pnl_fiscal_months.png)
+
+
+* P&L BY Market
+   ![P&L By Market Report](images/0_P&L_By_market.png)
 
 ### Key Achievements
 
